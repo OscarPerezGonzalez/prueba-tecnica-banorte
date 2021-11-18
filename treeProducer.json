@@ -1,0 +1,255 @@
+{
+    "id": 0,
+    "employeeNumber": "N2150",
+    "name": "Miguel Angel",
+    "position": "Director",
+    "children": [
+        {
+            "id": 1,
+            "employeeNumber": "N2151",
+            "name": "Gustavo Rodriguez",
+            "position": "Subdirector",
+            "children": [
+                {
+                    "id": 2,
+                    "employeeNumber": "N2152",
+                    "name": "Edgar Salazar",
+                    "position": "Director Financiero",
+                    "children": [
+                        {
+                            "id": 7,
+                            "employeeNumber": "N2157",
+                            "name": "Fernando Barron",
+                            "position": "Jefe de contabilad",
+                            "children": [
+                                {
+                                    "id": 8,
+                                    "employeeNumber": "N2158",
+                                    "name": "Alejandro Mani",
+                                    "position": "Facturista",
+                                    "children": []
+                                },
+                                {
+                                    "id": 9,
+                                    "employeeNumber": "N2159",
+                                    "name": "Alicia Delgado",
+                                    "position": "Tesorero",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "employeeNumber": "N2160",
+                            "name": "Soraya Bermudez",
+                            "position": "Jefe de Administracion",
+                            "children": [
+                                {
+                                    "id": 11,
+                                    "employeeNumber": "N2161",
+                                    "name": "Yamileth Ortiz",
+                                    "position": "Aministradora Ciudad de Puebla",
+                                    "children": [
+                                        {
+                                            "id": 14,
+                                            "employeeNumber": "N2164",
+                                            "name": "Laura Vazquez",
+                                            "position": "Axuliar Administrativa",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 12,
+                                    "employeeNumber": "N2162",
+                                    "name": "Sofia Perez",
+                                    "position": "Aministradora Ciudad de Veracruz",
+                                    "children": [
+                                        {
+                                            "id": 15,
+                                            "employeeNumber": "N2165",
+                                            "name": "Juana Gonzalez",
+                                            "position": "Axuliar Administrativa",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 13,
+                                    "employeeNumber": "N2163",
+                                    "name": "Socorro Sanchez",
+                                    "position": "Aministradora Ciudad de Oaxaca",
+                                    "children": [
+                                        {
+                                            "id": 16,
+                                            "employeeNumber": "N2166",
+                                            "name": "Alexa Naranjo",
+                                            "position": "Axuliar Administrativa",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "employeeNumber": "N2153",
+                    "name": "Diana Villegas",
+                    "position": "Director de RH",
+                    "children": [
+                        {
+                            "id": 17,
+                            "employeeNumber": "N2167",
+                            "name": "Marisol Ramirez",
+                            "position": "Jefe de Seleccion",
+                            "children": [
+                                {
+                                    "id": 19,
+                                    "employeeNumber": "N2169",
+                                    "name": "Javier Lopez",
+                                    "position": "Reclutador",
+                                    "children": []
+                                },
+                                {
+                                    "id": 20,
+                                    "employeeNumber": "N2170",
+                                    "name": "Gilberto Esponda",
+                                    "position": "Reclutador",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 18,
+                            "employeeNumber": "N2168",
+                            "name": "Vanesa Hernandez",
+                            "position": "Jefe de Formacion",
+                            "children": [
+                                {
+                                    "id": 21,
+                                    "employeeNumber": "N2171",
+                                    "name": "Alfonso Romero",
+                                    "position": "Capacitador",
+                                    "children": []
+                                },
+                                {
+                                    "id": 22,
+                                    "employeeNumber": "N2172",
+                                    "name": "Gaston Lopez",
+                                    "position": "Capacitador",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "employeeNumber": "N2155",
+                    "name": "Areli Garcia",
+                    "position": "Director de Ventas",
+                    "children": [
+                        {
+                            "id": 23,
+                            "employeeNumber": "N2173",
+                            "name": "Gaston Lopez",
+                            "position": "Gerente de Sucursal",
+                            "children": [
+                                {
+                                    "id": 25,
+                                    "employeeNumber": "N2175",
+                                    "name": "Julio Morales",
+                                    "position": "Vendedor",
+                                    "children": []
+                                },
+                                {
+                                    "id": 26,
+                                    "employeeNumber": "N2176",
+                                    "name": "Roberto Rosales",
+                                    "position": "Vendedor",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 24,
+                            "employeeNumber": "N2174",
+                            "name": "Gaston Lopez",
+                            "position": "Gerente de Sucursal",
+                            "children": [
+                                {
+                                    "id": 27,
+                                    "employeeNumber": "N2177",
+                                    "name": "Ignacio Alarcon",
+                                    "position": "Vendedor",
+                                    "children": []
+                                },
+                                {
+                                    "id": 28,
+                                    "employeeNumber": "N2178",
+                                    "name": "Antonio Quiroz",
+                                    "position": "Vendedor",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "employeeNumber": "N2156",
+                    "name": "Marisol Gutierrez",
+                    "position": "Director de Cobranza",
+                    "children": [
+                        {
+                            "id": 29,
+                            "employeeNumber": "N2179",
+                            "name": "Jose Luis Medel",
+                            "position": "Gerente de Sucursal",
+                            "children": [
+                                {
+                                    "id": 30,
+                                    "employeeNumber": "N2180",
+                                    "name": "Arturo Cruz",
+                                    "position": "Gestor de Cobranza",
+                                    "children": []
+                                },
+                                {
+                                    "id": 31,
+                                    "employeeNumber": "N2181",
+                                    "name": "Rosendo Malagon",
+                                    "position": "Gestor de Cobranza",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 32,
+                            "employeeNumber": "N2182",
+                            "name": "Carlos Salinas",
+                            "position": "Gerente de Sucursal",
+                            "children": [
+                                {
+                                    "id": 33,
+                                    "employeeNumber": "N2183",
+                                    "name": "Adriel Martinez",
+                                    "position": "Gestor de Cobranza",
+                                    "children": []
+                                },
+                                {
+                                    "id": 34,
+                                    "employeeNumber": "N2184",
+                                    "name": "Juan Carlos Mondragon",
+                                    "position": "Gestor de Cobranza",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

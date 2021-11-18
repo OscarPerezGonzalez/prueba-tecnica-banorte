@@ -1,0 +1,1 @@
+export { OrganigramaRoutes } from './organigrama-routes'

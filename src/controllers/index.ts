@@ -1,0 +1,1 @@
+export { OrganigramaController } from './organigrama-controller';
